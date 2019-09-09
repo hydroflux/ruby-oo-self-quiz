@@ -1,6 +1,6 @@
-# Quiz: Advanced Class Methods
+# Quiz: Self
 
-## Advanced Class Methods
+## Self Quiz
 
 ?: An object is a bundle of code that contains both characteristics and behaviors.
 (X) True ( ) False
