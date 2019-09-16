@@ -12,6 +12,7 @@
 
 (X) True ( ) False
 
+?: 
 
 ```ruby
 class Dog
@@ -27,7 +28,7 @@ harpo.name = "Harpo"
 harpo.good
 ```
 
-?: In the `good` method, the `self` keyword refers to the:
+In the `good` method, the `self` keyword refers to the:
 
 ( ) The instance of an object ( ) The object that a method is being called on ( ) The class (X) The instance, or object, that the method is being called on
 
